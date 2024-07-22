@@ -1,0 +1,2 @@
+-- Angelo: agregado de imagenes y conexion a base de datos
+-- Fauricio: Rediseno completo + cambios en servicios + links de contacto de redes sociales + mejora en formulario
