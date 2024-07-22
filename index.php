@@ -10,7 +10,7 @@
 <body>
     <nav class="navbar">
         <div class="logo">
-          <img src="images/logo.jpeg" alt="Logo">
+          <img src="img/logo.jpeg" alt="Logo">
         </div>
         <ul>
           <li><a href="index.php">Inicio</a></li>
@@ -60,35 +60,35 @@
     <h2>Servicio de reparacion de equipos</h2>
     <div class="services-container">
         <div class="service-item">
-            <img src="images/Best_TV_Screen.jpg" alt="TV">
+            <img src="img/TVs.jpg" alt="TVs">
             <div class="service-info">  
                 <h3>TVs</h3>
                 <p>$$$</p>
             </div>
         </div>
         <div class="service-item">
-            <img src="images/laptops.jpg" alt="Servicio 2">
+            <img src="img/laptops.jpg" alt="Laptops">
             <div class="service-info">
                 <h3>Laptops</h3>
                 <p>$$$</p>
             </div>
         </div>
         <div class="service-item">
-            <img src="images/PCs.jpg" alt="Servicio 3">
+            <img src="img/PCs.jpg" alt="PCs">
             <div class="service-info">
                 <h3>PCs</h3>
                 <p>$$$</p>
             </div>
         </div>
         <div class="service-item">
-            <img src="images/Flagship-Phones.jpg" alt="Servicio 3">
+            <img src="img/Phones.jpg" alt="Celulares">
             <div class="service-info">
                 <h3>Celulares</h3>
                 <p>$$$</p>
             </div>
         </div>
         <div class="service-item">
-            <img src="images/sound-system.jpg" alt="Servicio 3">
+            <img src="img/sound-system.jpg" alt="Audio">
             <div class="service-info">
                 <h3>Audio</h3>
                 <p>$$$</p>
